@@ -2,6 +2,8 @@
 
 Currículum profesional desarrollado en LaTeX. Basado en Rover Resume.
 
+[CV Preview](contenedor/main.pdf)
+
 ## 📦 Compilación
 
 Sube `main.tex` a [Overleaf](https://www.overleaf.com) y compila.
