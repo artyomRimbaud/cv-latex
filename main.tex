@@ -1,0 +1,257 @@
+%=============================================================================
+% CV PROFESIONAL - JUAN CARLOS HERNANDEZ RODRIGUEZ
+%=============================================================================
+% Plantilla base: Rover Resume - Office Template
+% Autor original: Subidit (https://github.com/subidit/rover-resume)
+% Enlace: https://github.com/subidit/rover-resume/blob/main/templates/office%20rover/office-rover.tex
+% 
+% Modificaciones y adaptaciones:
+% - Traducción completa al español
+% - Estructura optimizada para ATS (Applicant Tracking Systems)
+% - Diseño en dos columnas para secciones de Educación/Certificaciones y Habilidades
+% - Justificación de texto sin separación silábica
+% - Márgenes ATS-friendly (0.75in)
+% - Iconos FontAwesome5 para mejor presentación visual
+%=============================================================================
+
+\documentclass{article}
+
+%=============================================================================
+% CONFIGURACIÓN DE FUENTES Y TIPOGRAFÍA
+%=============================================================================
+\usepackage[sfdefault,light]{FiraSans}  % Fuente moderna sans-serif
+\usepackage{microtype}                   % Mejora micro-tipográfica
+
+%=============================================================================
+% CONFIGURACIÓN DE PÁGINA Y MÁRGENES
+%=============================================================================
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  margin=0.75in,
+  top=0.75in,
+  bottom=0.75in
+}
+\pagestyle{empty}                        % Sin números de página
+\setcounter{secnumdepth}{0}             % Sin numeración de secciones
+
+%=============================================================================
+% CONFIGURACIÓN DE JUSTIFICACIÓN Y ESPACIADO
+%=============================================================================
+\usepackage{ragged2e}
+\justifying                              % Texto justificado
+\tolerance=1                             % Flexibilidad en espaciado
+\emergencystretch=\maxdimen             % Estiramiento de espacios
+\hyphenpenalty=10000                    % Evita separación silábica
+\hbadness=10000                         % Suprime warnings de espaciado
+\setlength{\parindent}{0pt}             % Sin sangría en párrafos
+
+%=============================================================================
+% PAQUETES GRÁFICOS E ICONOS
+%=============================================================================
+\usepackage{graphicx}                   % Manejo de imágenes
+\usepackage{fontawesome5}               % Iconos profesionales
+
+%=============================================================================
+% CONFIGURACIÓN DE LISTAS
+%=============================================================================
+\usepackage{enumitem}
+\setlist[itemize]{
+  leftmargin=*,
+  label=\faCaretRight,
+  itemsep=0pt
+}
+
+%=============================================================================
+% CONFIGURACIÓN DE COLORES
+%=============================================================================
+\usepackage{xcolor}
+\definecolor{background}{HTML}{0D47A1}  % Azul para encabezados de sección
+
+%=============================================================================
+% FORMATO DE TÍTULOS Y SECCIONES
+%=============================================================================
+\usepackage[explicit]{titlesec}
+
+% Formato de sección principal (con fondo de color)
+\titleformat{\section}
+  {\large\bfseries\color{white}}
+  {}
+  {}
+  {\colorbox{background}{#1}}
+
+% Formato de subsubsección (cursiva)
+\titleformat{\subsubsection}
+  {\large\itshape}
+  {}
+  {}
+  {#1}
+
+% Espaciado de secciones
+\titlespacing{\subsection}{0pt}{*3}{*0.5}
+\titlespacing{\subsubsection}{0pt}{*0}{*0.5}
+
+%=============================================================================
+% COMANDOS PERSONALIZADOS
+%=============================================================================
+% Alinea texto a la derecha (usado para fechas)
+\newcommand{\rside}[1]{\hfill \normalfont\scshape\MakeLowercase{#1}}
+
+%=============================================================================
+% CONFIGURACIÓN DE HIPERVÍNCULOS
+%=============================================================================
+\usepackage[bookmarks=false,hidelinks]{hyperref}
+
+%=============================================================================
+% INICIO DEL DOCUMENTO
+%=============================================================================
+\begin{document}
+
+%=============================================================================
+% ENCABEZADO: INFORMACIÓN PERSONAL Y CONTACTO
+%=============================================================================
+\begin{center}
+  % Fotografía profesional
+  \begin{minipage}{0.2\textwidth}
+    \includegraphics[width=\linewidth]{elements/Juan_Hernandez_Foto.png}
+  \end{minipage}\hfill
+  % Nombre e información de contacto
+  \begin{minipage}[c]{0.75\textwidth}
+    \vspace{0cm}
+    {\Huge\bfseries JUAN CARLOS HERNANDEZ RODRIGUEZ} \\[0.3cm] 
+    {\large\itshape Científico de datos en formación} \\[0.2cm] 
+    \faPhone\ \href{tel:+528661526274}{+52 866 152 6274} \quad 
+    \faEnvelope\ \href{mailto:kantbauer@proton.me}{kantbauer@proton.me} \quad
+    \faGithub\ \href{https://github.com/artyomRimbaud}{artyomRimbaud} \\[0.1cm]  
+    \faMapMarker\ Monclova, Coahuila de Zaragoza, México \quad
+    \faLanguage\ Inglés B1
+  \end{minipage}
+\end{center}
+
+%=============================================================================
+% SECCIÓN: EDUCACIÓN Y CERTIFICACIONES (Diseño en dos columnas)
+%=============================================================================
+\noindent 
+\begin{minipage}[t]{0.58\textwidth}
+  \section{\faGraduationCap\enspace Educación}
+  
+  % Educación formal
+  \subsection{\href{https://www.escom.ipn.mx/}{Escuela Superior de Cómputo (ESCOM)} \rside{2020 - 2024}}
+  \subsubsection{\href{https://www.escom.ipn.mx/htmls/oferta/lcd2020.php}{Licenciatura en Ciencia de Datos} \rside{CDMX}}
+  \begin{itemize}
+    \item En proceso de titulación
+  \end{itemize}
+  
+  % Formación complementaria
+  \subsection{\href{https://www.facebook.com/speakenglishmva}{Speak up!} \rside{En curso}}
+  \subsubsection{Curso de Inglés \rside{Monclova, Coah.}}
+  \begin{itemize}
+    \item Martes y Jueves, 17:30 - 19:00
+  \end{itemize}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.38\textwidth}
+  \section{\faCertificate\enspace Certificaciones}
+  
+  % Certificación en Cloud Computing
+  \subsection{\href{https://www.skills.google/}{Google Cloud Skills Boost}}
+  \subsubsection{\href{https://www.skills.google/public_profiles/5107ecc7-7950-485a-a9a3-e58da59e5ba2/badges/6025136?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share}{Digital Transformation with Google Cloud}}
+  \begin{itemize}
+    \item Transformación digital en la nube
+  \end{itemize}
+  
+  % Certificación en Design Thinking
+  \subsection{\href{https://www.ibm.com/training/enterprise-design-thinking}{IBM - Enterprise Design Thinking}}
+  \subsubsection{\href{https://www.credly.com/badges/6e2c8272-7f2a-4d66-9e42-541293311a06/linked_in_profile}{Co-Creator} y \href{https://www.credly.com/badges/975e68ee-01a8-49e9-be70-2212f6ae74fe/linked_in_profile}{Practitioner}}
+  \begin{itemize}
+    \item Diseño centrado en el usuario
+  \end{itemize}
+\end{minipage}
+
+%=============================================================================
+% SECCIÓN: EXPERIENCIA PROFESIONAL
+%=============================================================================
+\section{\faChartPie\enspace Experiencia}
+
+% Experiencia 1: Servicio Social
+\subsection{Unidad de Servicios de Apoyo a la Escuela Regular \rside{Mar 2024 | Sep 2024}}
+\subsubsection{Auxiliar Administrativo | Servicio Social \rside{Monclova, Coahuila}}
+\begin{itemize}
+  \item Administré repositorios de datos académicos, desarrollando metodologías de procesamiento eficiente para la generación de informes detallados.
+  \item Colaboré con la dirección en el análisis de datos para fundamentar mejoras en programas académicos.
+\end{itemize}
+
+% Experiencia 2: Estancia Profesional
+\subsection{Fabricación y Montajes ZL, S.A. de C.V. \rside{Jul 2024 | Ago 2024}}
+\subsubsection{Auxiliar Administrativo - Recursos Humanos | Estancia Profesional \rside{Monclova, Coahuila}}
+\begin{itemize}
+  \item Diseñé un sistema automatizado de gestión de asistencia en Excel, incorporando tablas dinámicas interrelacionadas, fórmulas condicionales y dashboards con KPIs de rendimiento.
+  \item Desarrollé propuesta de solución tecnológica para control de accesos mediante hardware y software de bajo costo, orientada a eliminar procesos manuales y optimizar registros.
+  \item Administré el sistema integral de información del personal, garantizando la confidencialidad y seguridad de datos sensibles.
+\end{itemize}
+
+%=============================================================================
+% SECCIÓN: HABILIDADES TÉCNICAS (Diseño en dos columnas)
+%=============================================================================
+\section{\faCogs\enspace Habilidades Duras}
+
+\begin{minipage}[t]{0.48\textwidth}
+  % Subsección: Ciencia de Datos
+  \subsection{\faDatabase\enspace Ciencia de Datos}
+  \begin{itemize}
+    \item Procesamiento y limpieza de bases de datos
+    \item Visualización de datos y generación de reportes
+    \item Diseño e implementación de bases de datos
+  \end{itemize}
+  
+  % Subsección: Infraestructura y Soporte
+  \subsection{\faServer\enspace Infraestructura y Soporte}
+  \begin{itemize}
+    \item \textbf{Hardware:} Ensamble, diagnóstico y mantenimiento preventivo/correctivo
+    \item \textbf{Redes:} Configuración LAN, protocolos de seguridad física
+    \item \textbf{Sistemas:} Instalación y configuración de SO (Windows, Linux) y drivers
+  \end{itemize}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+  % Subsección: Programación y Desarrollo
+  \subsection{\faCode\enspace Programación y Desarrollo}
+  \begin{itemize}
+    \item \textbf{Python:} Automatización, scripting, POO, manejo de archivos
+    \item \textbf{R:} Análisis estadístico, visualización de datos, reportes reproducibles
+    \item \textbf{JavaScript:} Desarrollo web y manipulación del DOM
+    \item \textbf{SQL:} Consultas, diseño de bases de datos relacionales
+    \item \textbf{Git/GitHub:} Control de versiones y colaboración
+    \item \textbf{Microsoft Office:} Ofimática Avanzada (Word, Excel, PowerPoint, etc.)
+    \item \textbf{\LaTeX:} Sistema de composición de documentos científicos, técnicos y académicos
+  \end{itemize}
+\end{minipage}
+
+%=============================================================================
+% SECCIÓN: HABILIDADES BLANDAS (Diseño en dos columnas)
+%=============================================================================
+\section{\faUserFriends\enspace Habilidades Blandas}
+
+\begin{minipage}[t]{0.48\textwidth}
+  % Subsección: Competencias Cognitivas
+  \subsection{\faBrain\enspace Competencias Cognitivas}
+  \begin{itemize}
+    \item Pensamiento analítico y estratégico
+    \item Resolución de problemas complejos
+    \item Innovación y aprendizaje continuo
+    \item Atención al detalle
+  \end{itemize}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+  % Subsección: Competencias Interpersonales
+  \subsection{\faUsers\enspace Competencias Interpersonales}
+  \begin{itemize}
+    \item Comunicación efectiva (oral y escrita)
+    \item Trabajo en equipo y colaboración
+    \item Liderazgo y formación de equipos
+    \item Adaptabilidad y resiliencia
+  \end{itemize}
+\end{minipage}
+
+%=============================================================================
+% FIN DEL DOCUMENTO
+%=============================================================================
+\end{document}
