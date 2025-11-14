@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.9)  9 NOV 2025 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.9)  13 NOV 2025 22:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,50 +282,50 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip68
 )
-LaTeX Font Info:    Trying to load font information for OT1+FiraSans-OsF on input line 108.
+LaTeX Font Info:    Trying to load font information for OT1+FiraSans-OsF on input line 110.
  (/usr/share/texlive/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 File: OT1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for OT1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/n' in size <10> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 108.
+(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 110.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/n' will be
-(Font)              scaled to size 10.0pt on input line 108.
+(Font)              scaled to size 10.0pt on input line 110.
  (contenedor/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
 \c@mv@tabular=\count282
 \c@mv@boldtabular=\count283
-LaTeX Info: Redefining \microtypecontext on input line 108.
-Package microtype Info: Applying patch `item' on input line 108.
-Package microtype Info: Applying patch `toc' on input line 108.
-Package microtype Info: Applying patch `eqnum' on input line 108.
-Package microtype Info: Applying patch `footnote' on input line 108.
-Package microtype Info: Applying patch `verbatim' on input line 108.
+LaTeX Info: Redefining \microtypecontext on input line 110.
+Package microtype Info: Applying patch `item' on input line 110.
+Package microtype Info: Applying patch `toc' on input line 110.
+Package microtype Info: Applying patch `eqnum' on input line 110.
+Package microtype Info: Applying patch `footnote' on input line 110.
+Package microtype Info: Applying patch `verbatim' on input line 110.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 108.
+LaTeX Info: Redefining \showhyphens on input line 110.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -338,19 +338,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(54.2025pt, 489.10287pt, 54.2025pt)
-* v-part:(T,H,B)=(54.2025pt, 736.64185pt, 54.2025pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=489.10287pt
-* \textheight=736.64185pt
-* \oddsidemargin=-18.06749pt
-* \evensidemargin=-18.06749pt
-* \topmargin=-55.06749pt
+* h-part:(L,W,R)=(43.36243pt, 527.57014pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=527.57014pt
+* \textheight=708.24513pt
+* \oddsidemargin=-28.90756pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -387,80 +387,81 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 108.
+Package hyperref Info: Link coloring OFF on input line 110.
 <elements/Juan_Hernandez_Foto.png, id=4, 1284.8pt x 1284.8pt>
 File: elements/Juan_Hernandez_Foto.png Graphic file (type png)
 <use elements/Juan_Hernandez_Foto.png>
-Package pdftex.def Info: elements/Juan_Hernandez_Foto.png  used on input line 116.
-(pdftex.def)             Requested size: 97.81908pt x 97.80656pt.
+Package pdftex.def Info: elements/Juan_Hernandez_Foto.png  used on input line 118.
+(pdftex.def)             Requested size: 105.5124pt x 105.51111pt.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 117.
+(Font)              <7> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 117.
+(Font)              <5> on input line 119.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/n' in size <24.88> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 121.
+(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/n' will be
-(Font)              scaled to size 24.88pt on input line 121.
+(Font)              scaled to size 24.88pt on input line 123.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <24.88> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 121.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 123.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 121.
+(Font)              scaled to size 24.88pt on input line 123.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/n' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 122.
+(Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 124.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/n' will be
-(Font)              scaled to size 12.0pt on input line 122.
+(Font)              scaled to size 12.0pt on input line 124.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/it' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/it' tried instead on input line 122.
+(Font)              Font shape `OT1/FiraSans-OsF/light/it' tried instead on input line 124.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/it' will be
-(Font)              scaled to size 12.0pt on input line 122.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 123.
+(Font)              scaled to size 12.0pt on input line 124.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 125.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 124.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 126.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 125.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 127.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 125.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 127.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 130.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 136.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 139.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 136.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/sc' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/sc' tried instead on input line 139.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
 (Font)              scaled to size 12.0pt on input line 139.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 142.
+LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/sc' in size <12> not available
+(Font)              Font shape `OT1/FiraSans-OsF/light/sc' tried instead on input line 142.
+LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
+(Font)              scaled to size 12.0pt on input line 142.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 145.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <10> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 209.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 212.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 209.
+(Font)              scaled to size 10.0pt on input line 212.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <7> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 224.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 227.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 7.0pt on input line 224.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 231.
- (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd) [1
+(Font)              scaled to size 7.0pt on input line 227.
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./elements/Juan_Hernandez_Foto.png>] [2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}] (contenedor/main.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./elements/Juan_Hernandez_Foto.png>] [2] (contenedor/main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15984 strings out of 474222
- 280459 string characters out of 5748733
- 1954975 words of memory out of 5000000
- 37965 multiletter control sequences out of 15000+600000
- 603437 words of font info for 92 fonts, out of 8000000 for 9000
+ 15976 strings out of 474222
+ 280280 string characters out of 5748733
+ 1952975 words of memory out of 5000000
+ 37967 multiletter control sequences out of 15000+600000
+ 602723 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,1092b,466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1092b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on contenedor/main.pdf (2 pages, 1291542 bytes).
+Output written on contenedor/main.pdf (2 pages, 1291700 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream

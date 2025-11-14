@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1762735468.23094 "/mnt/Unidad_Secundaria/1_general/proyectos/programacion/github_repositories/LaTeX/cv-latex/main.tex" "contenedor/main.pdf" "main" 1762735469.02339 0
+["pdflatex"] 1763094513.96838 "/mnt/Unidad_Secundaria/1_general/proyectos/programacion/github_repositories/LaTeX/cv-latex/main.tex" "contenedor/main.pdf" "main" 1763094514.69955 0
   "/etc/texmf/web2c/texmf.cnf" 1762730312.25048 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/Unidad_Secundaria/1_general/proyectos/programacion/github_repositories/LaTeX/cv-latex/main.tex" 1762735468.11314 11849 bbd3ba468fffd9218dcf7e189e00bda9 ""
+  "/mnt/Unidad_Secundaria/1_general/proyectos/programacion/github_repositories/LaTeX/cv-latex/main.tex" 1763094513.85272 12004 7b86fb4bc95d43f3bb025a92ebc8ab83 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc" 1570828436 2952 6101deaf2e29800c3f438cc30978a854 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc" 1570828436 3152 4a83427ecb5836d2f3a977393b570b77 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -104,9 +104,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1762730326.17443 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1762730418 8215522 7fe7bd59ba933fa5ee6bf019f5f968f3 ""
-  "contenedor/main.aux" 1762735468.95017 4093 076b0c464fa2e13a2bddee36ef17d197 "pdflatex"
+  "contenedor/main.aux" 1763094514.61553 4093 076b0c464fa2e13a2bddee36ef17d197 "pdflatex"
   "elements/Juan_Hernandez_Foto.png" 1762756748 920072 28982aab362b425be1e6309a65300ab3 ""
-  "main.tex" 1762735468.11314 11849 bbd3ba468fffd9218dcf7e189e00bda9 ""
+  "main.tex" 1763094513.85272 12004 7b86fb4bc95d43f3bb025a92ebc8ab83 ""
   (generated)
   "contenedor/main.aux"
   "contenedor/main.log"
