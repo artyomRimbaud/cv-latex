@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.9)  13 NOV 2025 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.11.9)  17 DEC 2025 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,44 +427,44 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 130.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 139.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 137.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 139.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/sc' in size <12> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/sc' tried instead on input line 142.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
-(Font)              scaled to size 12.0pt on input line 142.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 145.
+(Font)              scaled to size 12.0pt on input line 137.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 137.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <10> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 212.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 152.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 212.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <7> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 227.
-LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 7.0pt on input line 227.
+(Font)              scaled to size 10.0pt on input line 152.
+LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/sc' in size <12> not available
+(Font)              Font shape `OT1/FiraSans-OsF/light/sc' tried instead on input line 187.
+LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
+(Font)              scaled to size 12.0pt on input line 187.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 197.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not available
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 197.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./elements/Juan_Hernandez_Foto.png>] [2] (contenedor/main.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc} <./elements/Juan_Hernandez_Foto.png>] [2] (contenedor/main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15976 strings out of 474222
- 280280 string characters out of 5748733
- 1952975 words of memory out of 5000000
- 37967 multiletter control sequences out of 15000+600000
- 602723 words of font info for 88 fonts, out of 8000000 for 9000
+ 15997 strings out of 474222
+ 280872 string characters out of 5748733
+ 1951975 words of memory out of 5000000
+ 37983 multiletter control sequences out of 15000+600000
+ 598454 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,1092b,565s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on contenedor/main.pdf (2 pages, 1291700 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on contenedor/main.pdf (2 pages, 1316262 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
- 26630 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 29 named destinations out of 1000 (max. 500000)
+ 24582 words of extra memory for PDF output out of 24883 (max. 10000000)
 
