@@ -186,15 +186,35 @@
 
 \subsection{Servidor Local \rside{Mar 2025 | Presente}}
 \subsubsection{Infraestructura Segura de Datos Personales Autoalojados}
+
 \begin{itemize}
-\item Diseñé e implementé una infraestructura de servidor privado para gestión de archivos, calendarios y contactos entre múltiples dispositivos, eliminando dependencia de servicios en la nube.
-\item Establecí arquitectura de seguridad por capas: cifrado de comunicaciones, aislamiento de servicios, autenticación multi-usuario y control de acceso granular.
-\item Desarrollé sistema automatizado en Python para clasificación inteligente de archivos con validación criptográfica, gestionando 30 GB de datos.
-\item Apliqué principio de mínimo privilegio en cada componente, reduciendo superficie de ataque.
-\item Implementé monitoreo automatizado para detección temprana de fallos y disponibilidad continua.
+  \item Diseñé e implementé una infraestructura de servidor privado para gestión
+        de archivos, calendarios y contactos entre múltiples dispositivos,
+        eliminando dependencia de servicios en la nube.
+  \item Diseñé modelo de seguridad en capas con cifrado TLS, aislamiento por
+        contenedor y autenticación independiente por usuario y ruta.
+  \item Desarrollé sistema automatizado en Python para clasificación inteligente
+        de archivos con validación criptográfica, gestionando más de 50\,GB de datos.
+  \item Configuré cada servicio con capacidades mínimas de sistema operativo,
+        eliminando privilegios de root donde el diseño lo permitía.
+  \item Integré healthchecks nativos de Docker con políticas de reinicio
+        automático, garantizando recuperación autónoma ante fallos de servicio.
 \end{itemize}
 
-\textbf{Stack tecnológico:}\quad \faLinux \quad Linux \quad $|$ \quad \faPython \quad Python \quad $|$ \quad \faDocker \quad Docker \quad $|$ \quad Nginx \quad $|$ \quad dnsmasq \quad $|$ \quad SSL/TLS \quad 
+\medskip
+\noindent\textbf{Stack tecnológico:}\enspace \\[0.3cm]
+\faLinux\;\small{\href{https://linuxmint.com/edition.php?id=326}{GNU/Linux}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faPython\;\small{\href{https://www.python.org/}{Python}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faFileArchive\;\small{\href{https://docs.python.org/3/library/hashlib.html}{SHA\text{-}256}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faDocker\;\small{\href{https://docs.docker.com/compose}{Docker Compose}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faServer\;\small{\href{https://github.com/nginx/docker-nginx}{Nginx}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faKey\;\small{\href{https://github.com/nginx/docker-nginx}{SSL/TLS}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faNetworkWired\;\small{\href{https://github.com/mar10/wsgidav}{WebDAV}}\normalsize\quad \\[0.2cm]
+\faCalendar*\;\small{\href{https://github.com/tomsquest/docker-radicale}{CalDAV}}\normalsize\quad\textcolor{gray}{$|$}\quad
+\faAddressBook\;\small{\href{https://github.com/tomsquest/docker-radicale}{CardDAV}}\normalsize\quad
+
+
+
 
 %=============================================================================
 % SECCIÓN: EDUCACIÓN Y CERTIFICACIONES (Diseño en dos columnas)
@@ -207,7 +227,7 @@
   \subsection{\href{https://www.escom.ipn.mx/}{Escuela Superior de Cómputo (ESCOM)} \rside{2020 - 2024}}
   \subsubsection{\href{https://www.escom.ipn.mx/htmls/oferta/lcd2020.php}{Licenciatura en Ciencia de Datos} \rside{CDMX}}
   \begin{itemize}
-    \item En proceso de titulación
+    \item Terminada y en proceso de titulación
   \end{itemize}
   
   % Formación complementaria

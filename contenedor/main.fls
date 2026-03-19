@@ -192,6 +192,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-ot1.
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-sc-ot1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-ot1.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd
